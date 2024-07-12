@@ -16,7 +16,7 @@ conflig.plist's simbios based on **MacPro6,1**. Generate your own `MLB`, `System
 
 ### Used kernels
 * [AppleALC.kext](https://github.com/acidanthera/AppleALC)
-* [Lilu.kext]([https://github.com/acidanthera/Lilu](https://github.com/acidanthera/Lilu))
+* [Lilu.kext]([https://github.com/acidanthera/Lilu](https://github.com/acidanthera/Lilu)
 * [NVMeFix.kext](https://github.com/acidanthera/NVMeFix)
 * RealtekRTL8100.kext
 * [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC)
