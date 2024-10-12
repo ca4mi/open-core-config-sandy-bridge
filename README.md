@@ -7,7 +7,7 @@
 
 ### Bootloader and OS
 * Bootloader: [OpenCore](https://github.com/acidanthera/OpenCorePkg)
-* OS: MacOS Monterey **12.7.5**
+* OS: MacOS Monterey **12.7.6**
 
 Works on Monterey **12.7.5** above higher versions had issue with Nvidia GPU.
 You can step-by-step guide though Open Core's [guide](https://dortania.github.io/OpenCore-Install-Guide/0).
