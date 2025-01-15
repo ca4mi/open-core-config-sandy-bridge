@@ -4,7 +4,7 @@
 * GPU: ASUS GTX 770 DirectCU II OC 2 GB + kernel patch from [chirs1111](https://github.com/chris1111/Geforce-Kepler-patcher)
 * Power Supply: COOLER MASTER|500 Watts| PFC Active MPW-5001-ACABN1
 * SSD: Kingston 240 GB | [TRIM](https://en.wikipedia.org/wiki/Trim_(computing)) Enabled via Kernel 
-* 8GB DDR3 @ 1333 MHz
+* RAM: Envinda DDR3 1600 PCI-12800U-CL9 /only works 1333 MHz/
 * Display: Asus PA279CV
 * Keyboard & Mouse: Generic
 
